@@ -25,7 +25,7 @@ A desktop weather application built with *PyQt5* that displays real-time weather
 
 *Prince Jha*  
 SY BSc IT | Python & PyQt Learner  
-GitHub: [github.com/<your-username>](https://github.com/<your-username>)
+GitHub: [github.com/princejha-dev](https://github.com/princejha-dev)
 
 ---
 
@@ -48,4 +48,4 @@ If you liked this project or found it useful, consider giving it a ⭐ to suppor
 Install dependencies:
 
 ```bash
-pip install pyqt5 requests
+pip install pyqt5 requests dotenv
